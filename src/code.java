@@ -7,7 +7,7 @@ public class code {
                 Thread.sleep(2000);
                 System.out.println("making changes");
                 System.out.println("making another change");
-                System.out.println("making a third change");
+                System.out.println(making a third change");
             }
         }
     }
